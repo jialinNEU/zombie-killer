@@ -3,6 +3,8 @@
 This is a simulation of the online version of the Game which can be found at below mentioned link.
 https://www.codingame.com/multiplayer/optimization/code-vs-zombies
 
+Other contributors are: Yiren Ding, Tianhao Fang and Shubhi Mittal.
+
 ## Game Overview
 
 There is only one agent named **Ash**, who has a powerful weapon in this game. He needs to protect humans from being killed by Zombies and at the same time also kill all zombies to finish the game. **Ash, Zombies and Humans** are all placed in a closed grid/map. As part of the problem statement, the internal codes for the movement of zombies are hidden. The goal of Ash is to maximize game score by killing all zombies and saving maximum number of Humans.
@@ -59,4 +61,5 @@ src/ai - for Ash's AI
 Run with arguments 1 (default option), 2 or 3 to switch between different stages of AI for Ash
 - src/game/Game.java
 ```
+
 
